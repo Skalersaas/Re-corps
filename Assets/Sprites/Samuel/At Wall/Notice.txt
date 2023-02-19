@@ -1,0 +1,3 @@
+When you hold the direction button in direction of wall
+character turn around and stands close to the wall.
+(no other buttons pressed, just in direction)

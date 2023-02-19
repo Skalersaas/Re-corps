@@ -1,0 +1,4 @@
+Speed - 200 ms or depends of moving speed
+(it might be the same speed as the sneaking moving speed).
+While you holding a direction button in direction of wall - press the right or left
+to walking by the side of the wall.

@@ -1,0 +1,2 @@
+Speed - 100 ms or depend of moving speed
+Movin directly to direction buttons

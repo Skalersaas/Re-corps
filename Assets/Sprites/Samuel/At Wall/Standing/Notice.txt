@@ -1,0 +1,3 @@
+The animation starts after 2 second of do nothing.
+Speed - 300 ms
+while holding button in direction of wall

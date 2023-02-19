@@ -1,0 +1,2 @@
+When you hold the sneak button - character enters sneaking mode with sneaking animation
+and moves slowly than normal.

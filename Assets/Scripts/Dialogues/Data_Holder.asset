@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b77fd534bb1ff374dafb96574bf9abd9, type: 3}
+  m_Name: Data_Holder
+  m_EditorClassIdentifier: 
+  Nodes:
+  - M_info:
+      type: 1
+      Title: Message
+      GUID: 2fddec34-40ab-413b-89e6-1d3469c6f62b
+      position:
+        serializedVersion: 2
+        x: -78
+        y: 95
+        width: 137
+        height: 77
+    message:
+    - text: 
+      BackgroundImage: {fileID: 0}
+      next_GUID: 5f6991ec-99f2-47d5-bd78-1bce560da567
+      character:
+        Name: 
+        Profile: {fileID: 0}
+        pos: 0
+  - M_info:
+      type: 1
+      Title: Message
+      GUID: b39de2b6-0461-4e35-80b7-75f247e6c28b
+      position:
+        serializedVersion: 2
+        x: 482
+        y: 39
+        width: 137
+        height: 77
+    message:
+    - text: 
+      BackgroundImage: {fileID: 0}
+      next_GUID: 
+      character:
+        Name: 
+        Profile: {fileID: 0}
+        pos: 0
+  - M_info:
+      type: 1
+      Title: Message
+      GUID: 5db39717-7ff4-4c1d-b693-e799f32577ae
+      position:
+        serializedVersion: 2
+        x: 397
+        y: 150
+        width: 137
+        height: 77
+    message:
+    - text: 
+      BackgroundImage: {fileID: 0}
+      next_GUID: 
+      character:
+        Name: 
+        Profile: {fileID: 0}
+        pos: 0
+  - M_info:
+      type: 2
+      Title: If
+      GUID: 5f6991ec-99f2-47d5-bd78-1bce560da567
+      position:
+        serializedVersion: 2
+        x: 135
+        y: 66
+        width: 137
+        height: 101
+    message:
+    - text: 
+      BackgroundImage: {fileID: 0}
+      next_GUID: b39de2b6-0461-4e35-80b7-75f247e6c28b
+      character:
+        Name: 
+        Profile: {fileID: 0}
+        pos: 0
+    - text: 
+      BackgroundImage: {fileID: 0}
+      next_GUID: 5db39717-7ff4-4c1d-b693-e799f32577ae
+      character:
+        Name: 
+        Profile: {fileID: 0}
+        pos: 0
